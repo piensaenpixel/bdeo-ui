@@ -1,6 +1,3 @@
-# Bdeo colors
-
-
 ## Brand colors
 
 ```color
